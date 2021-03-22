@@ -1,2 +1,3 @@
 # BluetoothCommunication
-Bluetooth communication for Android Studio to use as telemetry aid
+Android Studio application for telemetry
+Also has a connection to Firebase
