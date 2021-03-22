@@ -3,3 +3,5 @@ purple
 green
 blue
 yellow
+
+a new rainbow appears in unicorn branch
