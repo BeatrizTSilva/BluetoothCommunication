@@ -8,5 +8,5 @@ a new rainbow appears in unicorn branch
 
 change to main branch
 
-new colour is
-purple and red
+
+added ponies to the repository as a branch
