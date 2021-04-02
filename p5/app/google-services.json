@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857911120089",
+    "firebase_url": "https://setuptelemetry.firebaseio.com",
+    "project_id": "setuptelemetry",
+    "storage_bucket": "setuptelemetry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857911120089:android:df14c49efdce24d706eec8",
+        "android_client_info": {
+          "package_name": "com.example.p5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857911120089-ht0tvc7c2cc5450p9ht8kp01uh4a2r06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.p5",
+            "certificate_hash": "3edc7c218a97ce012badc37a5ba147724f39c099"
+          }
+        },
+        {
+          "client_id": "857911120089-bns02qt707je78pr2p4f01m5a7643ig9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvgEPWtfb09SwDjixS9S1XB8p8eFtlDa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857911120089-bns02qt707je78pr2p4f01m5a7643ig9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

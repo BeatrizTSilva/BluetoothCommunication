@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bluetooth_basic</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="bluetooth">BT On/Off</string>
+    <string name="battery">Remaining Battery:   </string>
+    <string name="time">Remaining Time:    </string>
+    <string name="speed">Speed:    </string>
+    <string name="coordinates">Coordinates:    </string>
+    <string name="enable_discov">Enable Discoverable</string>
+    <string name="get_location">Get Location</string>
+    <string name="discover">Discover</string>
+    <string name="start_connection">Start Connection</string>
+    <string name="enter_text">Enter Text Here</string>
+    <string name="send">Send</string>
+    <string name="incoming_message">Incoming Message</string>
+</resources>
