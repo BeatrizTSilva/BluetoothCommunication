@@ -1,3 +1,4 @@
 # BluetoothCommunication
 Android Studio application for telemetry
-Also has a connection to Firebase
+
+It also has a connection to Firebase
